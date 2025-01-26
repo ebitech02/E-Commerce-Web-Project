@@ -1,3 +1,7 @@
+This is a fully responsive and functional e-commerce web application built with react and tailwindcss, using third party application auth0 for user authentication.
+
+# Clone the repo into your local computer 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

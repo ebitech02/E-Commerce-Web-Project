@@ -1,30 +1,30 @@
 const products = [{
         id: 1,
         image: "/1.jpg",
-        productDescription: "Stylish sneakers for everyday use.",
+        productDescription: "Statement piece.",
         productPrice: 49.99,
-        productTitle: "Nose",
+        productTitle: "Blue Gemstone",
     },
     {
         id: 2,
         image: "/2.jpg",
-        productDescription: "A comfortable chair for your home office.",
+        productDescription: "Classy Girl.",
         productPrice: 129.99,
-        productTitle: "Fish",
+        productTitle: "Round Gold Earrings",
     },
     {
         id: 3,
         image: "/3.jpg",
-        productDescription: "Smartphone with the latest features and technology.",
+        productDescription: "Silver Earrings for everyday look.",
         productPrice: 799.99,
-        productTitle: "bag",
+        productTitle: "Silver Piece",
     },
     {
         id: 4,
         image: "/4.jpg",
-        productDescription: "High-quality wireless headphones with noise-cancellation.",
+        productDescription: ".",
         productPrice: 199.99,
-        productTitle: "Shoe",
+        productTitle: "Layered Island Piece",
     }
 ];
 

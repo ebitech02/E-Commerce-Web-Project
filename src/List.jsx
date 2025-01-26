@@ -54,32 +54,32 @@ Tiffany & Co. designs feature the world’s finest diamonds and unparalleled cra
 <div className="h-[210px] rounded-2xl w-[205px]">
 <img src="/5.jpg" alt="" srcset=""  className="w-full h-full object-cover rounded-2xl" />
 </div>
-<p className="text-center mt-2 p-1">Beads</p>
+<p className="text-center mt-2 p-1">Necklace</p>
 </div>
 <div>
 <div className="h-[210px] rounded-2xl w-[205px]">
 <img src="/6.jpg" alt="" srcset=""  className="w-full h-full object-cover rounded-2xl" /></div>
-<p className="text-center mt-2 p-1">Beads</p>
+<p className="text-center mt-2 p-1">Necklace</p>
 </div>
 <div>
 <div className="h-[210px] rounded-2xl w-[205px]">
 <img src="/7.jpg" alt="" srcset=""  className="w-full h-full object-cover rounded-2xl" /></div>
-<p className="text-center mt-2 p-1">Beads</p>
+<p className="text-center mt-2 p-1">Necklace</p>
 </div>
 <div>
 <div className="h-[210px] rounded-2xl w-[205px]">
 <img src="/8.jpg" alt="" srcset=""  className="w-full h-full object-cover rounded-2xl" /></div>
-<p className="text-center mt-2 p-1">Beads</p>
+<p className="text-center mt-2 p-1">Necklace</p>
 </div>
 <div>
 <div className="h-[210px] rounded-2xl w-[205px]">
 <img src="/9.jpg" alt="" srcset=""  className="w-full h-full object-cover rounded-2xl" /></div>
-<p className="text-center mt-2 p-1">Beads</p>
+<p className="text-center mt-2 p-1">Necklace</p>
 </div>
 <div>
 <div className="h-[210px] rounded-2xl w-[205px]">
 <img src="/10.jpg" alt="" srcset=""  className="w-full h-full object-cover rounded-2xl" /></div>
-<p className="text-center mt-2 p-1">Beads</p>
+<p className="text-center mt-2 p-1">Necklace</p>
 </div>
 
 

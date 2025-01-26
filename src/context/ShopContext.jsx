@@ -23,19 +23,16 @@ const ShopContextProvider = props => {
     localStorage.setItem("cartItems", JSON.stringify(cartItems));
   }, [cartItems]);
 
-  // Log cartItems whenever they change (for debugging)
-  // useEffect(() => {
-  //   console.log(cartItems); // This logs cartItems every time it changes
-  // }, [cartItems]);
+
 
   const showToast = () => {
     toast.success("Item added to cart successfully!", {
-      position: "top-right", // You can change position like top-center, bottom-left, etc.
-      autoClose: 3000, // Time (in ms) before toast auto-closes
-      hideProgressBar: false, // Show or hide the progress bar
-      closeOnClick: true, // Allow closing the toast by clicking on it
-      pauseOnHover: true, // Pause the toast when hovered
-      draggable: true, // Allow dragging the toast
+      position: "top-right", 
+      autoClose: 3000,
+      hideProgressBar: false, 
+      closeOnClick: true, 
+      pauseOnHover: true, 
+      draggable: true, 
     });
   };
   
